@@ -23,77 +23,77 @@ This project demonstrates practical implementation of data preprocessing, featur
 
 The dataset includes information such as:
 
-1.Applicant Income
+1. Applicant Income
 
-2.Co-applicant Income
+2. Co-applicant Income
 
-3.Loan Amount
+3. Loan Amount
 
-4.Loan Term
+4. Loan Term
 
-5.Credit History
+5. Credit History
 
-6.Gender, Education, Self-Employed Status
+6. Gender, Education, Self-Employed Status
 
-7.Property Area
+7. Property Area
 
-8.Loan Status (Approved/Not Approved)
+8. Loan Status (Approved/Not Approved)
 
 # 🛠️ Data Processing Steps
 
 1️⃣ Data Loading
 
-1.Dataset loaded using Pandas
+1. Dataset loaded using Pandas
 
 2️⃣ Data Cleaning
 
-1.Handled missing values
+1. Handled missing values
 
-2.Removed inconsistencies
+2. Removed inconsistencies
 
-3.Standardized categorical data
+3. Standardized categorical data
 
 3️⃣ Feature Engineering
 
-1.Created meaningful features for better analysis
+1. Created meaningful features for better analysis
 
-2.Converted categorical data into usable formats
+2. Converted categorical data into usable formats
 
 4️⃣ Data Transformation
 
-1.Encoded categorical variables
+1. Encoded categorical variables
 
-2.Structured dataset for analysis
+2. Structured dataset for analysis
 
 5️⃣ Data Preparation
 
-1.Prepared clean dataset for analysis and modeling
+1. Prepared clean dataset for analysis and modeling
 
 # 📊 Exploratory Data Analysis (EDA)
 
-1.The project includes visualization and analysis of:
+1. The project includes visualization and analysis of:
 
-2.Loan approval distribution
+2. Loan approval distribution
 
-3.Income vs loan amount relationship
+3. Income vs loan amount relationship
 
-4.Impact of credit history on loan approval
+4. Impact of credit history on loan approval
 
-5.Gender and education analysis
+5. Gender and education analysis
 
-6.Property area influence on loan decisions
+6. Property area influence on loan decisions
 
 # 💻 Technologies Used
 
-1.Python
+1. Python
 
-2.Pandas
+2. Pandas
 
-3.Matplotlib
+3. Matplotlib
 
-4.Seaborn
+4. Seaborn
 
-5.Jupyter Notebook
+5. Jupyter Notebook
 
 # 📈 Future Improvements
 
