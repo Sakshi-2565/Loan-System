@@ -9,15 +9,15 @@ This project demonstrates practical implementation of data preprocessing, featur
 
 # 🎯 Objectives
 
-1.Analyze customer financial and personal data.
+1. Analyze customer financial and personal data.
 
-2.Clean and preprocess raw loan dataset.
+2. Clean and preprocess raw loan dataset.
 
-3.Identify key factors affecting loan approval.
+3. Identify key factors affecting loan approval.
 
-4.Perform exploratory data analysis to detect patterns.
+4. Perform exploratory data analysis to detect patterns.
 
-5.Prepare data for future machine learning models.
+5. Prepare data for future machine learning models.
 
 # 📂 Dataset Information
 
